@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDDfhPmajFmULgTszLJ+++VTVHzFDfGEOl9NasSpXby1jEib84EEznON5GQIf4NpWoxkk/Rr4AJ22HCwdXbsXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Documents\\GitHub\\Jes2DotNet\\Jes2DotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.data.sqlite\\3.1.8\\microsoft.data.sqlite.3.1.8.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.8\\microsoft.data.sqlite.core.3.1.8.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
